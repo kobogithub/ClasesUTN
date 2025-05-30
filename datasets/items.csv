@@ -1,0 +1,16 @@
+ID_Articulo,Nombre_Articulo,Categoria,Precio,Stock,Proveedor,Fecha_Ultima_Reposicion
+A001,Laptop,Electrónica,899.99,15,TechSupplies Inc.,2024-01-01
+A002,Mouse,Accesorios,24.99,50,PeripheryTech,2024-01-03
+A003,Impresora,Electrónica,199.99,10,PrintMasters,2023-12-28
+A004,Papel A4 (resma),Papelería,4.99,200,PaperWorks,2024-01-05
+A005,Monitor,Electrónica,149.99,20,ScreenGenius,2023-12-30
+A006,Teclado,Accesorios,49.99,30,KeyboardKings,2024-01-02
+A007,Disco Duro Externo,Almacenamiento,79.99,25,DataKeepers,2024-01-04
+A008,Smartphone,Electrónica,599.99,12,MobileTech,2023-12-29
+A009,Funda para Smartphone,Accesorios,19.99,100,CaseCreators,2024-01-06
+A010,Protector de Pantalla,Accesorios,9.99,150,ScreenShield,2024-01-07
+A011,Tableta Gráfica,Electrónica,199.99,8,ArtTech,2024-01-08
+A012,Auriculares Bluetooth,Audio,89.99,40,SoundMasters,2024-01-09
+A013,Cámara Web,Accesorios,59.99,18,ViewClear,2024-01-10
+A014,Router Wi-Fi,Redes,79.99,22,NetConnect,2024-01-11
+A015,Batería Externa,Accesorios,39.99,60,PowerUp,2024-01-12

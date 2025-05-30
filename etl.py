@@ -4,7 +4,7 @@ from io import StringIO
 
 # Configuración de AWS
 s3 = boto3.client('s3')
-bucket_name = 'datalake'
+bucket_name = 'datalake-utn'
 input_prefix = 'bronze/'
 output_prefix = 'silver/'
 

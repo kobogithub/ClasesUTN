@@ -1,0 +1,11 @@
+Numero_Factura,Fecha,ID_Cliente,Cliente,ID_Articulo,Articulo,Cantidad,Precio_Unitario,Total
+001,2024-01-05,C001,Juan Pérez,A001,Laptop,1,899.99,899.99
+001,2024-01-05,C001,Juan Pérez,A002,Mouse,1,24.99,24.99
+002,2024-01-07,C002,María García,A003,Impresora,1,199.99,199.99
+002,2024-01-07,C002,María García,A004,Papel A4 (resma),2,4.99,9.98
+003,2024-01-10,C003,Carlos Rodríguez,A005,Monitor,2,149.99,299.98
+003,2024-01-10,C003,Carlos Rodríguez,A006,Teclado,1,49.99,49.99
+004,2024-01-12,C004,Ana Martínez,A007,Disco Duro Externo,1,79.99,79.99
+005,2024-01-15,C005,Pedro Sánchez,A008,Smartphone,1,599.99,599.99
+005,2024-01-15,C005,Pedro Sánchez,A009,Funda para Smartphone,1,19.99,19.99
+005,2024-01-15,C005,Pedro Sánchez,A010,Protector de Pantalla,1,9.99,9.99

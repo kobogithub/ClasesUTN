@@ -1,0 +1,11 @@
+ID_Cliente,Nombre,Apellido,Email,Telefono,Direccion,Ciudad,Pais,Fecha_Registro,Tipo_Cliente
+C001,Juan,Pérez,juan.perez@email.com,+34 612345678,Calle Mayor 123,Madrid,España,2023-05-15,Regular
+C002,María,García,maria.garcia@email.com,+34 623456789,Avenida Central 45,Barcelona,España,2023-06-22,Premium
+C003,Carlos,Rodríguez,carlos.rodriguez@email.com,+34 634567890,Plaza Principal 67,Valencia,España,2023-07-10,Regular
+C004,Ana,Martínez,ana.martinez@email.com,+34 645678901,Calle del Sol 89,Sevilla,España,2023-08-05,Premium
+C005,Pedro,Sánchez,pedro.sanchez@email.com,+34 656789012,Paseo de la Luna 12,Bilbao,España,2023-09-18,Regular
+C006,Laura,Fernández,laura.fernandez@email.com,+34 667890123,Ronda del Mar 34,Málaga,España,2023-10-30,Regular
+C007,Miguel,López,miguel.lopez@email.com,+34 678901234,Calle Estrella 56,Zaragoza,España,2023-11-12,Premium
+C008,Carmen,Díaz,carmen.diaz@email.com,+34 689012345,Avenida del Parque 78,Murcia,España,2023-12-07,Regular
+C009,Javier,Ruiz,javier.ruiz@email.com,+34 690123456,Plaza de la Libertad 90,Palma,España,2024-01-03,Premium
+C010,Isabel,Moreno,isabel.moreno@email.com,+34 601234567,Calle del Río 23,Las Palmas,España,2024-01-20,Regular
