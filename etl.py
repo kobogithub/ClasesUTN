@@ -4,9 +4,9 @@ from io import StringIO
 
 # Configuración de AWS
 s3 = boto3.client('s3')
-bucket_name = 'datos-etl-archivos'
-input_prefix = 'datos-crudos/'
-output_prefix = 'datos-procesados/'
+bucket_name = 'datalake'
+input_prefix = 'bronze/'
+output_prefix = 'silver/'
 
 def read_csv_from_s3(file_name):
     response = s3.get_object(Bucket=bucket_name, Key=input_prefix + file_name)
